@@ -2,17 +2,29 @@ In the name of God
 
 # Stack Overflow The Right Way
 
-> ||| Missing Manual for Contribution in Communities |||
+> ||| The Missing Manual for Contribution in Communities |||
 
 This is a book diving deep into the every aspect of contribution (question/answer) in communities like `Stack Overflow`, `Reddit`, `Quora`, `Github`, `Twitter` etc. in the right manner.
 
+<a href="https://github.com/SeyyedKhandon/stackoverflow-the-right-way">
 <img src="cover.png" width="300" alt="stackoverflow the right way - book cover"/>
+</a>
 
-## Power Points
+[Stack Overflow The Right Way - Github](https://github.com/SeyyedKhandon/stackoverflow-the-right-way)
+
+## Book (Power Point Format)
 
 - [FA version](stackoverflow-the-right-way.pptx)
 
 - [EN version](stackoverflow-the-right-way-en.pptx) Updated (Under Translation 50%)
+
+## RoadMap
+
+- [x] Complete Book in PowerPoint Format - `Farsi` version
+
+- [ ] Complete Book in PowerPoint Format - `English` version (50% done)
+
+- [ ] Add `Markdown` version for each language
 
 ## Titles
 
@@ -46,13 +58,13 @@ If you'd like to donate towards the effort (or any of my other OSS efforts), ple
 
 ## Thanks To These Wonderful Sponsors
 
-[deepleaning.ir](https://deeplearning.ir/)
+- [deepleaning.ir](https://deeplearning.ir/)
 
-`Deeplearning.ir` was created in 2015 to provide resources and information needed by researchers in the field of deep learning.
+> `deeplearning.ir` was created in 2015 to provide resources and information needed by researchers in the field of AI and deep learning.
 
 I also want to extend a warm and deep thanks to these wonderful colleagues who helped me on this journey and supported me by their precious comments on various part of the book:
 
-- Seyyed Hossein Hasanpour - _Senior Software Developer and Deep Learning Researcher at ArvenWare Ltd_
+- Seyyed Hossein Hasanpour - _Founder of deepleaning.ir_
 
 - Hamann Naqiniarami - _UI/UX Designer_
 
@@ -61,6 +73,52 @@ I also want to extend a warm and deep thanks to these wonderful colleagues who h
 - Ali Reza Barkhordari - _Software Engineer_
 
 - Zahra Mirzaei - _Frontend Developer_
+
+## Contributors
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="25.28%">
+        <a href="https://github.com/seyyedkhandon">
+          <img
+            src="https://avatars.githubusercontent.com/u/59599950?v=4"
+            width="100px;"
+            alt="Seyyed Mahdi Hassanpour"
+          />
+          <br />
+          <sub><b>Seyyed Mahdi Hassanpour</b></sub>
+        </a>
+        <br />
+        <a href="https://seyyedkhandon.com/" title="Code">💻</a>
+      </td>
+      <td align="center" valign="top" width="25.28%">
+        <a href="https://github.com/Coderx7">
+          <img
+            src="https://avatars.githubusercontent.com/u/5382892?v=4"
+            width="100px;"
+            alt="Seyyed Hossein Hasanpour"
+          />
+          <br />
+          <sub><b>Seyyed Hossein Hasanpour</b></sub>
+        </a>
+        <br />
+        <a href="https://deeplearning.ir/" title="Code">💻</a>
+      </td>
+      <td align="center" valign="top" width="25.28%">
+        <a href="https://github.com/hamedlokik">
+          <img
+            src="https://avatars.githubusercontent.com/u/23160820?v=4"
+            width="100px;"
+            alt="Hamann Naqiniarami"
+          />
+          <br />
+          <sub><b>Hamann Naqiniarami</b></sub>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
