@@ -50,9 +50,9 @@ But **PLEASE** read the [Contributions Guidelines](contributing.md) carefully be
 
 If you'd like to donate towards the effort (or any of my other OSS efforts), please consider these options:
 
-- Crypto via _Tron(trx)_: `TKzuvXfyhcSrmVc6pgca3225171Y2VkDnH`
-- Crypto via _Bitcoin_: `bc1q43p9hzc2lq777kq98h5gak7gtuymacve8lspf2`
-- Crypto via _BNB_: `0x35422e206206a6f7dDCdDdd0ace95fede1f3627B`
+- Crypto via _Tron(trx)_: `TXmrBDhHkajqAiPsbYCn9xFdeg5XAfK61x`
+- Crypto via _Bitcoin_: `bc1q46yjwqmfr24jcuyhpn4ytw43jg574vrgas0nms`
+- Crypto via _BNB_: `0x44A852972BD3E95379641A9427b740Cd1f95f95F`
 
 - [PayPing for Iranian](https://www.payping.ir/d/PB73)
 
